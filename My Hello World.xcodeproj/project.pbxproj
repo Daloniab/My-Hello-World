@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CED3364F1CF8121D00B8E3AF /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3364E1CF8121D00B8E3AF /* ThirdViewController.swift */; };
+		CED336511CF817C200B8E3AF /* QuickViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED336501CF817C200B8E3AF /* QuickViewController.swift */; };
+		CED336531CF8A15D00B8E3AF /* next button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED336521CF8A15D00B8E3AF /* next button.jpg */; };
+		CED336551CF8A58600B8E3AF /* FullSizeRender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED336541CF8A58600B8E3AF /* FullSizeRender.jpg */; };
+		CED336571CF8BA6C00B8E3AF /* fitimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED336561CF8BA6C00B8E3AF /* fitimage.jpg */; };
 		CEE5163E1CF6C65000002DAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5163D1CF6C65000002DAB /* AppDelegate.swift */; };
 		CEE516401CF6C65000002DAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5163F1CF6C65000002DAB /* ViewController.swift */; };
 		CEE516431CF6C65000002DAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE516411CF6C65000002DAB /* Main.storyboard */; };
@@ -14,6 +19,14 @@
 		CEE516481CF6C65000002DAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE516461CF6C65000002DAB /* LaunchScreen.storyboard */; };
 		CEE516531CF6C65000002DAB /* My_Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE516521CF6C65000002DAB /* My_Hello_WorldTests.swift */; };
 		CEE5165E1CF6C65000002DAB /* My_Hello_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5165D1CF6C65000002DAB /* My_Hello_WorldUITests.swift */; };
+		CEE5166C1CF7787C00002DAB /* fingerprint.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE5166B1CF7787C00002DAB /* fingerprint.jpg */; };
+		CEE5166E1CF7877600002DAB /* arrow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE5166D1CF7877600002DAB /* arrow.jpg */; };
+		CEE516701CF788E500002DAB /* double-arrow-button-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE5166F1CF788E500002DAB /* double-arrow-button-hi.png */; };
+		CEE516721CF78AAC00002DAB /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE516711CF78AAC00002DAB /* images.jpg */; };
+		CEE516741CF78B7D00002DAB /* Unknown.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE516731CF78B7D00002DAB /* Unknown.png */; };
+		CEE516761CF78DD300002DAB /* fitbody020511.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE516751CF78DD300002DAB /* fitbody020511.jpg */; };
+		CEE516781CF7A3C300002DAB /* fit photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE516771CF7A3C300002DAB /* fit photo.jpg */; };
+		CEE516BA1CF7EEAB00002DAB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE516B91CF7EEAB00002DAB /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +47,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CED3364E1CF8121D00B8E3AF /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ThirdViewController.swift; path = ../ThirdViewController.swift; sourceTree = "<group>"; };
+		CED336501CF817C200B8E3AF /* QuickViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuickViewController.swift; sourceTree = "<group>"; };
+		CED336521CF8A15D00B8E3AF /* next button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "next button.jpg"; sourceTree = "<group>"; };
+		CED336541CF8A58600B8E3AF /* FullSizeRender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FullSizeRender.jpg; sourceTree = "<group>"; };
+		CED336561CF8BA6C00B8E3AF /* fitimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fitimage.jpg; sourceTree = "<group>"; };
 		CEE5163A1CF6C65000002DAB /* My Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEE5163D1CF6C65000002DAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEE5163F1CF6C65000002DAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +65,14 @@
 		CEE516591CF6C65000002DAB /* My Hello WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Hello WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEE5165D1CF6C65000002DAB /* My_Hello_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Hello_WorldUITests.swift; sourceTree = "<group>"; };
 		CEE5165F1CF6C65000002DAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE5166B1CF7787C00002DAB /* fingerprint.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fingerprint.jpg; path = ../../fingerprint.jpg; sourceTree = "<group>"; };
+		CEE5166D1CF7877600002DAB /* arrow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = arrow.jpg; path = ../../arrow.jpg; sourceTree = "<group>"; };
+		CEE5166F1CF788E500002DAB /* double-arrow-button-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "double-arrow-button-hi.png"; path = "../../double-arrow-button-hi.png"; sourceTree = "<group>"; };
+		CEE516711CF78AAC00002DAB /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpg; path = ../../images.jpg; sourceTree = "<group>"; };
+		CEE516731CF78B7D00002DAB /* Unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Unknown.png; path = ../../Unknown.png; sourceTree = "<group>"; };
+		CEE516751CF78DD300002DAB /* fitbody020511.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fitbody020511.jpg; path = ../../fitbody020511.jpg; sourceTree = "<group>"; };
+		CEE516771CF7A3C300002DAB /* fit photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "fit photo.jpg"; path = "../../fit photo.jpg"; sourceTree = "<group>"; };
+		CEE516B91CF7EEAB00002DAB /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +125,21 @@
 			children = (
 				CEE5163D1CF6C65000002DAB /* AppDelegate.swift */,
 				CEE5163F1CF6C65000002DAB /* ViewController.swift */,
+				CEE516B91CF7EEAB00002DAB /* SecondViewController.swift */,
+				CED336501CF817C200B8E3AF /* QuickViewController.swift */,
+				CED3364E1CF8121D00B8E3AF /* ThirdViewController.swift */,
 				CEE516411CF6C65000002DAB /* Main.storyboard */,
+				CED336541CF8A58600B8E3AF /* FullSizeRender.jpg */,
+				CED336561CF8BA6C00B8E3AF /* fitimage.jpg */,
+				CED336521CF8A15D00B8E3AF /* next button.jpg */,
+				CEE5166B1CF7787C00002DAB /* fingerprint.jpg */,
+				CEE5166F1CF788E500002DAB /* double-arrow-button-hi.png */,
+				CEE516771CF7A3C300002DAB /* fit photo.jpg */,
 				CEE516441CF6C65000002DAB /* Assets.xcassets */,
+				CEE5166D1CF7877600002DAB /* arrow.jpg */,
+				CEE516751CF78DD300002DAB /* fitbody020511.jpg */,
+				CEE516731CF78B7D00002DAB /* Unknown.png */,
+				CEE516711CF78AAC00002DAB /* images.jpg */,
 				CEE516461CF6C65000002DAB /* LaunchScreen.storyboard */,
 				CEE516491CF6C65000002DAB /* Info.plist */,
 			);
@@ -230,8 +269,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEE516481CF6C65000002DAB /* LaunchScreen.storyboard in Resources */,
+				CED336531CF8A15D00B8E3AF /* next button.jpg in Resources */,
 				CEE516451CF6C65000002DAB /* Assets.xcassets in Resources */,
+				CEE5166C1CF7787C00002DAB /* fingerprint.jpg in Resources */,
+				CEE516761CF78DD300002DAB /* fitbody020511.jpg in Resources */,
+				CED336571CF8BA6C00B8E3AF /* fitimage.jpg in Resources */,
+				CEE5166E1CF7877600002DAB /* arrow.jpg in Resources */,
+				CEE516781CF7A3C300002DAB /* fit photo.jpg in Resources */,
+				CED336551CF8A58600B8E3AF /* FullSizeRender.jpg in Resources */,
+				CEE516721CF78AAC00002DAB /* images.jpg in Resources */,
 				CEE516431CF6C65000002DAB /* Main.storyboard in Resources */,
+				CEE516741CF78B7D00002DAB /* Unknown.png in Resources */,
+				CEE516701CF788E500002DAB /* double-arrow-button-hi.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +305,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED336511CF817C200B8E3AF /* QuickViewController.swift in Sources */,
+				CEE516BA1CF7EEAB00002DAB /* SecondViewController.swift in Sources */,
 				CEE516401CF6C65000002DAB /* ViewController.swift in Sources */,
+				CED3364F1CF8121D00B8E3AF /* ThirdViewController.swift in Sources */,
 				CEE5163E1CF6C65000002DAB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -482,6 +534,7 @@
 				CEE516641CF6C65000002DAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEE516651CF6C65000002DAB /* Build configuration list for PBXNativeTarget "My Hello WorldTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +543,7 @@
 				CEE516671CF6C65000002DAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEE516681CF6C65000002DAB /* Build configuration list for PBXNativeTarget "My Hello WorldUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +552,7 @@
 				CEE5166A1CF6C65000002DAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
